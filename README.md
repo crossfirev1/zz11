@@ -13,7 +13,7 @@ fg
 vvvv
 vv
 vvvvvv
-v
+vz
 nn
 1
 v
